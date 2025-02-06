@@ -24,6 +24,6 @@
 
 <p dir="auto">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://camo.githubusercontent.com/94f611d9d17d718bdfb31604b5c35fa34c77f15a30e5d8bb5fdf9fad69753a30/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616e6b69746d616c696b3834267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d303630413043443026636172645f77696474683d31313030" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=sohailxdev&amp;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0&amp;card_width=1100](https://github-readme-streak-stats.herokuapp.com/?user=sohailxdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&card_width=1100" style="max-width: 100%;">
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohailxdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&card_width=1100" style="max-width: 100%;">
   </a>
 </p>
