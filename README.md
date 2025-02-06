@@ -25,3 +25,7 @@
 <p dir="auto">
     <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohailxdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&card_width=1100" style="max-width: 100%;">
 </p>
+
+<p dir="auto">
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-activity-graph.vercel.app/graph?username=sohailxdev&bg_color=ffffff&color=080808&line=0a81ff&point=403d3d&area=true&hide_border=true" style="max-width: 100%;">
+</p>
