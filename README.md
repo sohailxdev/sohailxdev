@@ -22,4 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohailxdev&show_icons=true&locale=en" alt="sohailxdev" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohailxdev&" alt="sohailxdev" /></p>
+<p dir="auto">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohailxdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&card_width=1100" style="max-width: 100%;">
+  </a>
+</p>
