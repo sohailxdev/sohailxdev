@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohailxdev" alt="sohailxdev" /></a> </p>
 
-
-- 🔭 I’m currently working on **Actify Bussiness**
-
 - 🌱 I’m currently learning **Devops,React Native**
 
 - 💬 Ask me about **Full Stack Developer**
